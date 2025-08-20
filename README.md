@@ -1,2 +1,27 @@
-# Plant-Disease-Detection-
-"🌿 A Python Machine Learning project for plant disease detection using image datasets, adaptable to different crops
+🌿 Plant Disease Detection
+
+This project is a Python-based Machine Learning system that detects diseases in plants using image datasets. It is designed to be flexible and adaptable — by changing the dataset, the same model can be used to detect diseases in different crops, not just tomatoes. The dataset for this project was initially sourced from Kaggle, and the system leverages deep learning for accurate classification.
+
+✨ Features
+
+🖼️ Image-based disease detection
+
+🤖 Machine Learning with Python (TensorFlow/Keras)
+
+📂 Dataset support for multiple crops (extendable)
+
+📊 Training, validation, and accuracy evaluation
+
+🌱 Scalable solution for smart agriculture
+
+🚀 Tech Stack
+
+Language: Python
+
+Libraries: TensorFlow / Keras, NumPy, Pandas, OpenCV, Matplotlib
+
+Dataset: Kaggle (modifiable for other crops)
+
+🎯 Purpose
+
+To provide a generalized and adaptable solution for plant disease detection, supporting farmers and researchers in improving crop health and reducing losses.
