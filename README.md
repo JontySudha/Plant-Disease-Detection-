@@ -22,6 +22,22 @@ Libraries: TensorFlow / Keras, NumPy, Pandas, OpenCV, Matplotlib
 
 Dataset: Kaggle (modifiable for other crops)
 
+📝 How to Change Dataset
+
+Download a new dataset (e.g., for potato, maize, or rice) from Kaggle or another source.
+
+Replace the current dataset folder (/traning) with your new dataset.
+
+Update the data loading path in the code (traiingn.py).
+
+Retrain the model using the new dataset.
+
+🔗 Links
+
+📂 Dataset: PlantVillage on Kaggle
+
 🎯 Purpose
 
 To provide a generalized and adaptable solution for plant disease detection, supporting farmers and researchers in improving crop health and reducing losses.
+
+
