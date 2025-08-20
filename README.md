@@ -26,7 +26,7 @@ Dataset: Kaggle (modifiable for other crops)
 
 Download a new dataset (e.g., for potato, maize, or rice) from Kaggle or another source.
 
-Replace the current dataset folder (/traning) with your new dataset.
+Replace the current dataset folder (/traning/PlantVillage) with your new dataset.
 
 Update the data loading path in the code (traiingn.py).
 
